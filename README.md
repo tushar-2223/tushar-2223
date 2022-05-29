@@ -1,10 +1,9 @@
 ### Hi there 👋
 ### My name is tushar pankhaniya
-### website :  tusharpankhaniya.github.io/portfolio/
+### This is my website 
+### tusharpankhaniya.github.io/portfolio/
 
 <!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
