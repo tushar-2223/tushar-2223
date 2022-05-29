@@ -1,5 +1,5 @@
 ### Hi there 👋
 ### My name is tushar pankhaniya
 
-### [PORTFOLIO WEBSITE](tusharpankhaniya.github.io/portfolio/)
+### [PORTFOLIO WEBSITE](https://tusharpankhaniya.github.io/Portfolio/)
 
