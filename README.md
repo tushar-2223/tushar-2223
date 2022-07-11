@@ -2,6 +2,6 @@
 
 <hr>
 
-<a<strong>href="https://tusharpankhaniya.github.io/Portfolio/">This is my Portfolio Website</a>
+<a href="https://tusharpankhaniya.github.io/Portfolio/">This is my Portfolio Website</a>
 <br/>
 
