@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">Check out my Portfolio Website 👇 </h3>
 <a align="center" href="https://tusharpankhaniya.github.io/Portfolio/">
-    <img src = "https://github.com/tusharpankhaniya/tusharpankhaniya/blob/main/readme.jpg" height="50" width="50">
+    <img  align="center" src = "https://github.com/tusharpankhaniya/tusharpankhaniya/blob/main/readme.jpg" height="300" width="300">
 </a>
 
 
