@@ -1,5 +1,7 @@
-### Hi there 👋
-### My name is tushar pankhaniya
+<h1 align="center">Hey there, I am Tushar Pankhaniya</h1>
 
-### [PORTFOLIO WEBSITE](https://tusharpankhaniya.github.io/Portfolio/)
+<hr>
+
+<a<strong>href="https://tusharpankhaniya.github.io/Portfolio/">This is my Portfolio Website</a>
+<br/>
 
