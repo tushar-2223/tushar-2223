@@ -2,8 +2,10 @@
 <h2 align="center">Information technology student at A.D. Patel Institute of Techonology</h2>
 <hr>
 <h3 align="center">Check out my Portfolio Website 👇 </h3>
-<a align="center" href="https://tusharpankhaniya.github.io/Portfolio/">
-    <img  align="center" src = "https://github.com/tusharpankhaniya/tusharpankhaniya/blob/main/readme.jpg" height="300" width="300">
-</a>
+<p align="center">
+    <a href="https://tusharpankhaniya.github.io/Portfolio/">
+        <img src = "https://github.com/tusharpankhaniya/tusharpankhaniya/blob/main/readme.jpg" height="350" width="600">
+    </a>
+</p>
 
 
