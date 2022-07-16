@@ -4,7 +4,7 @@
 <h3 align="center">Check out my Portfolio Website 👇 </h3>
 <p align="center">
     <a href="http://tusharpankhaniya.tk/">
-        <img src = "https://github.com/tusharpankhaniya/tusharpankhaniya/blob/main/readme.jpg" height="350" width="600">
+        <img src = "https://github.com/tusharpankhaniya/tusharpankhaniya/blob/main/redmeone.jpg" height="350" width="600">
     </a>
 </p>
 
