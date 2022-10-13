@@ -1,5 +1,5 @@
 <h1 align="center">🎧Hey there, I am Tushar Pankhaniya😎</h1>
-<h2 align="center">Information technology student at A.D. Patel Institute of Techonology</h2>
+<h2 align="center">I love building website using MERN Stack</h2>
 <hr>
 <h3 align="center">Check out my Portfolio Website 👇 </h3>
 <p align="center">
