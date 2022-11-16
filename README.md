@@ -3,7 +3,7 @@
 <hr>
 <h4 align="center">Check out my Portfolio Website 👇 </h4>
 <p align="center">
-    <a href="http://www.webdevelopertushar.tech/">
+    <a href="http://tusharpankhaniya.tk/">
         <img src = "webback.jpg" height="350" width="700">
     </a>
 </p>
