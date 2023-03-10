@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="400" src="./assets/profileimg.png"  />
+</div>
+
 <h1 align="center">🎧Hey there, I am Tushar Pankhaniya😎</h1>
 <h2 align="center">MERN Stack developer</h2>
 <hr>
