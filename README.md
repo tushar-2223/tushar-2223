@@ -1,5 +1,5 @@
 <h1 align="center">🎧Hey there, I am Tushar Pankhaniya😎</h1>
-<h2 align="center">web developer/React JS developer</h2>
+<h2 align="center">MERN Stack developer</h2>
 <hr>
 <p align="center">
     <h3 align="center">
