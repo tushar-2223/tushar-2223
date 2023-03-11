@@ -8,20 +8,10 @@ Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniy
 
 ## 📫 Let's connect
 
-<div align="left">
-  <a href="https://www.instagram.com/tushar.p_22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/tusharjp9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo"  />
-  </a>
-   <a href="https://www.youtube.com/@tusharpankhaniya" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-pankhaniya-062636204/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
-  </a>
-</div>
+[![instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/tushar.p_22/)
+[![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@tusharpankhaniya)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/tusharjp9)
+[![Linkdin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/tushar-pankhaniya-062636204/)
 
 ## 💻 Technologies and tools I use:
 
@@ -55,9 +45,10 @@ Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniy
 
 
 ## ⭐ My GitHub Stats:
+
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-2223&show_icons=true&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=tushar-2223&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Profile view](https://visitcount.itsvg.in/api?id=tushar-2223&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
 
