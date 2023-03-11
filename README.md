@@ -46,4 +46,5 @@ Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniy
 ## ⭐ My GitHub Stats:
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-2223&show_icons=true&theme=radical)
+
 [![Profile view](https://visitcount.itsvg.in/api?id=tushar-2223&icon=5&color=1)](https://visitcount.itsvg.in)
