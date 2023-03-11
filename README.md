@@ -18,7 +18,6 @@ Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniy
    <a href="https://www.youtube.com/@tusharpankhaniya" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube"  />
   </a>
-
   <a href="https://www.linkedin.com/in/tushar-pankhaniya-062636204/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
   </a>
