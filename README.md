@@ -1,7 +1,9 @@
 [![Tushar's GitHub Banner](./assets/profilepic.png)](http://tusharpankhaniya.tk)
 
 # 😎 About Me:
+
 - 💻 I'm a full-stack web developer with expertise in the MERN stack. I specialize in creating responsive, user-friendly web applications with clean, efficient code.
+
 - 🍿 I love to build UI/UX design
 
 Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniya.tk)
