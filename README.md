@@ -8,6 +8,10 @@
 
 Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniya.tk)
 
+[**Check out my Resume.**](https://rxresu.me/tusharpankhaniya2202/tushar-pankhaniya)
+
+
+
 ## 📫 Let's connect
 
 [![instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/tushar.p_22/)
