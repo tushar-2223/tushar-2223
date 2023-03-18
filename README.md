@@ -47,12 +47,12 @@ Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniy
 
 ## 💻 My Recent Project
 
-[![Recent project](https://github-readme-stats.vercel.app/api/pin/?username=tushar-2223&repo=React-Movie-App)](https://github.com/tushar-2223/React-Movie-App)
+[![Recent project](https://github-readme-stats.vercel.app/api/pin/?username=tushar-2223&repo=React-Movie-App&theme=dark)](https://github.com/tushar-2223/React-Movie-App)
 
 ## ⭐ My GitHub Stats:
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-2223&show_icons=true&theme=radical)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-2223&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-2223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-2223&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Profile view](https://visitcount.itsvg.in/api?id=tushar-2223&icon=5&color=1)](https://visitcount.itsvg.in)
