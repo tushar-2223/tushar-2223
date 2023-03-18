@@ -45,6 +45,10 @@ Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniy
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+## 💻 My Recent Project
+
+[![Recent project](https://github-readme-stats.vercel.app/api/pin/?username=tushar-2223&repo=React-Movie-App)](https://github.com/tushar-2223/React-Movie-App)
+
 ## ⭐ My GitHub Stats:
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-2223&show_icons=true&theme=radical)
