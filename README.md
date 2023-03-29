@@ -6,7 +6,7 @@
 
 - 🍿 I love to build UI/UX design
 
-Want to know more about me? [**Check out my portfolio.**](http://tusharpankhaniya.tk)
+<!-- Want to know more about me? [**Check out my portfolio.**]() -->
 
 [**Check out my Resume.**](https://rxresu.me/tusharpankhaniya2202/tushar-pankhaniya)
 
