@@ -51,7 +51,7 @@
 
 ## 💻 My Recent Project
 
-[![Recent project](https://github-readme-stats.vercel.app/api/pin/?username=tushar-2223&repo=BlueBird-Movies&theme=dark)](https://github.com/tushar-2223/React-Movie-App)
+[![Recent project](https://github-readme-stats.vercel.app/api/pin/?username=tushar-2223&repo=BlueBird-Movies&theme=dark)](https://github.com/tushar-2223/BlueBird-Movies)
 
 ## ⭐ My GitHub Stats:
 
