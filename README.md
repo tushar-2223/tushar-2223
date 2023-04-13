@@ -1,4 +1,4 @@
-[![Tushar's GitHub Banner](./assets/profilepic.png)](http://tusharpankhaniya.tk)
+[![Tushar's GitHub Banner](https://user-images.githubusercontent.com/87109400/231844445-7ce2e658-c478-4d56-ad7b-b08475904355.png)](http://)
 
 # 😎 About Me:
 
@@ -8,9 +8,7 @@
 
 <!-- Want to know more about me? [**Check out my portfolio.**]() -->
 
-[**Check out my Resume.**](https://rxresu.me/tusharpankhaniya2202/tushar-pankhaniya)
-
-
+- [**Check out my Resume.**](https://rxresu.me/tusharpankhaniya2202/tushar-pankhaniya)
 
 ## 📫 Let's connect
 
