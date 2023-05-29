@@ -49,10 +49,10 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 💻 My Recent Project
+<!-- ## 💻 My Recent Project
 
 [![Recent project](https://github-readme-stats.vercel.app/api/pin/?username=tushar-2223&repo=BlueBird-Movies&theme=dark)](https://github.com/tushar-2223/BlueBird-Movies)
-
+ -->
 ## ⭐ My GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-2223&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
