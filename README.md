@@ -1,4 +1,4 @@
-[![Tushar's GitHub Banner](https://user-images.githubusercontent.com/87109400/231844445-7ce2e658-c478-4d56-ad7b-b08475904355.png)](https://github.com/tushar-2223)
+[![Tushar's GitHub Banner](https://github.com/tushar-2223/tushar-2223/assets/87109400/ef81fa6c-d073-41df-8a50-85a91b9a15a3)](https://github.com/tushar-2223)
 
 # 😎 About Me:
 
