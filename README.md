@@ -6,8 +6,6 @@
 
 - 🍿 I love to build UI/UX design
 
-- ✨ I correctly working on my portfolio website using Next Js (tsx) , Sanity CMS
-
 <!-- Want to know more about me? [**Check out my portfolio.**]() -->
 
 - [**Check out my Resume.**](https://rxresu.me/tusharpankhaniya2202/tushar-pankhaniya)
