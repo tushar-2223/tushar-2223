@@ -8,7 +8,7 @@
 
 <!-- Want to know more about me? [**Check out my portfolio.**]() -->
 
-- [**Check out my Resume.**](https://drive.google.com/file/d/1eXVAxkDLt6tZzla3BDKzIH3dFqNqLsrS/view)
+<!--- [**Check out my Resume.**](https://drive.google.com/file/d/1eXVAxkDLt6tZzla3BDKzIH3dFqNqLsrS/view) -->
 
 ## 📫 Let's connect
 
