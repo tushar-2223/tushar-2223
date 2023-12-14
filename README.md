@@ -37,14 +37,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-<!--![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)-->
-<!--![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)-->
 
 ## 🌱 What I'm currently learning
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!-- ## 💻 My Recent Project
@@ -53,6 +49,6 @@
  -->
  
 ## ⭐ My GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=tushar-2223&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=tushar-2223&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-2223&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![](https://visitcount.itsvg.in/api?id=tushar-2223&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
