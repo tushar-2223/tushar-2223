@@ -40,4 +40,4 @@ Mobile App Developer specializing in React Native, eager to expand skills with F
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-2223&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Profile view](https://visitcount.itsvg.in/api?id=tushar-2223&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Profile view](https://visitcountpro.netlify.app/api?id=tushar-2223&icon=5&color=1)](https://visitcount.itsvg.in)
